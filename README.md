@@ -1,4 +1,4 @@
-# LLVM-Program-Analysis-and-Transform
+# LLVM Program Analysis and Transform
 For the course : ENEE645
 
 - project.cpp : is the source code of this project
